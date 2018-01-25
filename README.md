@@ -4,6 +4,8 @@ Primeiramente gostaria de pedir desculpas porque tenho maior proeficiencia em **
 
 ## Índice Remissivo
 
+
+> ATENÇÃO: O algoritmo não é eficiente para grandes casos, precisa-se melhorar o tempo de busca( `O(n^2)` mas poderia ser `O(log(n)^2)` ) e o tempo de impressao ( `O(n)` mas poreria ser `O(1)`), poreém fiz isso correndo e cansado durante a madrugada.
 ### Como o algoritmo funciona?
 
 1. O algoritmo percorre todas as linhas do arquivo montando uma lista de palavras
