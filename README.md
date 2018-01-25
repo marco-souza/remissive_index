@@ -24,7 +24,7 @@ Pre-requisito: python e make instalado no sistema
 
 Para executar o projeto:
 
-1. Clone o projeto: `git clone `
+1. Clone o projeto: `git clone https://github.com/marco-souza/remissive_index.git`
 
 2. Entre na pasta do projeto: `cd remissive_index`
 
