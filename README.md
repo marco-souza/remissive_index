@@ -20,7 +20,7 @@ Primeiramente gostaria de pedir desculpas porque tenho maior proeficiencia em **
 
 ### Como executar?
 
-Pre-requisito: python e make instalado no sistema
+**Pre-requisito:** `python` e `make` instalado no sistema.
 
 Para executar o projeto:
 
