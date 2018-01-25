@@ -1,8 +1,8 @@
-# Teste Pratico Imagine
+# Teste Pratico
 
 Primeiramente gostaria de pedir desculpas porque tenho maior proeficiencia em **JavaScript** e **Node.js**.
 
-## Indice Remissivo
+## Índice Remissivo
 
 ### Como o algoritmo funciona?
 
